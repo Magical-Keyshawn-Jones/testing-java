@@ -1,3 +1,4 @@
+package Classes;
 public class StudentClasses {
     String name;
     double gpa;

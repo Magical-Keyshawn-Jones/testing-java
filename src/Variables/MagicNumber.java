@@ -1,3 +1,4 @@
+package Variables;
 public class MagicNumber {
     public static void main(String[] args) {
         // Original Number
